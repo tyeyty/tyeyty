@@ -11,12 +11,11 @@
 
 ## Skills
 ### Frontend
-주변 도움을 받으면 간단한 프로토타입을 만들 수 있을 정도의 스킬을 가지고 있습니다.
-- React
+- HTML
+- CSS
+- Javascript
 
 ETC Skills
-- Testing : AB testing
-- Mornitoring : Google Analytics
 - Communication : Slack, KDDI Chatwork
 - Text : Confluence
 - Issue : Github / Jira / CAT / Bitbucket / SourseTree
