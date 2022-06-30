@@ -28,6 +28,14 @@ ETC Skills
 - Introduce : Mobile Game
 - Help Site / Event Page
 - Date : 2014.09 ~ 2022.08
-- Sell : Total 7M Yen / 1month
 
-<img src='./battlecat_icons.jpg' width="80" />
+<img src='./battlecat_icons.jpg' width="150" />
+
+###SUPER STAR SMTOWN / SUPER STAR BTS / SUPER STAR PLEDIS in JAPAN
+- Introduce : Mobile Game
+- Event Page / APP SITE
+- Date : 2017.08 ~ 2020.05
+
+<img src='./ssm_icon.png' width="80" />
+<img src='./ssb_icon.png' width="80" />
+<img src='./ssp_icon.png' width="80" />
