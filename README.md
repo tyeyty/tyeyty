@@ -30,4 +30,4 @@ ETC Skills
 - Date : 2014.09 ~ 2022.08
 - Sell : Total 7M Yen / 1month
 
-<img src='./images/ridibooks.png' width="80" />
+<img src='./battlecat_icons.jpg' width="80" />
