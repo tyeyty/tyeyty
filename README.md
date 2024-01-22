@@ -1,5 +1,5 @@
 ## Company
-- [PONOS](https://www.ponos.jp/) (2014 ~ 현재)
+- [PONOS](https://www.ponos.jp/) (2014 ~ 2022)
 - [CAPCOM](https://www.capcom.co.jp/) (2010 ~ 2013)
 - [WEMAID JAPAN](http://www.wemadeonline.co.jp/)(2009 ~ 2010)
 - [KYOBO INFORMATION&COMMUNICATION](https://www.kico.co.jp/)(2007 ~ 2009) 
