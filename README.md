@@ -27,7 +27,7 @@ ETC Skills
 
 ###Dalsaram.com / Korean / English
 - Introduce: Community Web site
-- Issue: New Menu Development, Maintain
+- Issue: New Menu Development, Maintainance
 - Skills: PHP, SQL, Javascript, AJAX, etc 
 - Date: 2014.09 ~ 2022.08
 
