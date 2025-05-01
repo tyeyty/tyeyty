@@ -31,7 +31,7 @@ ETC Skills
 - Design: Figma / PHOTOSHOP / ILLUSTRATOR / UNITY
 - Cording: DreamWeaver / Visual Studio Code
 
-## Projects
+## 📂 Projects
 **Project Name**: Dalsaram.com  
 **Role**: Lead Developer & Site Maintainer  
 **Duration**: Ongoing (since 2021)  
@@ -69,7 +69,8 @@ A mini video content platform built into Dalsaram.com.
 - Tracks CTR (Click-through rate) and allows time-based banner scheduling
 
 
-***Other careers: Web Designer & UI Designer Project***
+
+## Other careers: Web Designer & UI Designer Projects
 
 ###The Battle Cats English/ Korean / Chinese/ Europe (German, Italy, Spain Ver.)
 - Introduce: Mobile Game, Official Web Site
