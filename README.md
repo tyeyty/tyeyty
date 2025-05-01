@@ -31,6 +31,7 @@ ETC Skills
 - Design: Figma / PHOTOSHOP / ILLUSTRATOR / UNITY
 - Cording: DreamWeaver / Visual Studio Code
 
+## Projects
 **Project Name**: Dalsaram.com  
 **Role**: Lead Developer & Site Maintainer  
 **Duration**: Ongoing (since 2021)  
