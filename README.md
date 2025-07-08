@@ -35,18 +35,21 @@ ETC Skills
 **Project Name**: Dalsaram.com  
 **Role**: Lead Developer & Site Maintainer  
 **Duration**: Ongoing (since 2011)  
-**Tech Stack**: PHP 5.x, MySQL 5.6, JavaScript, HTML, CSS, Apache, jQuery  
+**Tech Stack: PHP (v5.X → v8.3), MySQL (v5.6 → v8.0.42), JavaScript, jQuery, HTML, CSS, Apache
 
 **Overview**:  
 Dalsaram.com is a Korean community portal based in Texas, providing classifieds, local business directories, forums, and announcements.  
 The site handles over **300,000 monthly visits**, requiring both stability and performance.
 
 **Key Contributions**:
+- Led full-stack development and long-term maintenance of a high-traffic Korean-American community portal (~10,000+ daily users).
 - Refactored legacy PHP logic to modularize key components (board, search, tagging system)
 - Optimized SQL queries for high-traffic boards, improving response time by 30%
 - Added custom menu/tag filtering and user-level content management system
 - Implemented spam filtering and basic SQL injection protection logic
 - Built a sub-platform called “DalTube” for video tagging and category-based display
+- Migrated legacy PHP 5.x codebase to PHP 8.3 with major backend and DB structure upgrades.
+- Optimized MySQL queries and performed full DB migration (5.6 → 8.0.42), minimizing downtime.
 
 **Screenshots**:  
 (Include dashboard or board list screenshots here — blurred if needed)
