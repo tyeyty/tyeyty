@@ -34,7 +34,7 @@ ETC Skills
 ## 📂 Projects
 **Project Name**: Dalsaram.com  
 **Role**: Lead Developer & Site Maintainer  
-**Duration**: Ongoing (since 2021)  
+**Duration**: Ongoing (since 2011)  
 **Tech Stack**: PHP 5.x, MySQL 5.6, JavaScript, HTML, CSS, Apache, jQuery  
 
 **Overview**:  
