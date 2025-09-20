@@ -17,17 +17,17 @@ After receiving my green card, I am planning to transition into a full-time role
 
 ## Skills
 **Languages**: PHP, SQL (MySQL), JavaScript, HTML, CSS  
-**Frameworks**: jQuery, CodeIgniter (if any), Bootstrap  
+**Frameworks**: jQuery, tailwind  
 **Tools**: Git, phpMyAdmin, VSCode 
 **Servers**: Apache, Linux (Ubuntu/CentOS), cPanel  
-**Database**: MySQL 5.x (query optimization, indexing)  
+**Database**: MySQL  
 **Other**: Shell/FTP, Cron jobs, Responsive Web Design
-Currently learning: Laravel, SAP Fiori (UI5), Docker
+Currently learning: React, Supabase, Laravel, SAP Fiori (UI5), Docker
 
 ETC Skills
 - Communication: Slack, KDDI Chatwork
 - Document: Confluence
-- Issue: Jira / CAT / Bitbucket / SourseTree
+- Issue: Jira / CAT / Bitbucket / SourceTree
 - Design: Figma / PHOTOSHOP / ILLUSTRATOR / UNITY
 - Cording: DreamWeaver / Visual Studio Code
 
@@ -35,7 +35,7 @@ ETC Skills
 **Project Name**: Dalsaram.com  
 **Role**: Lead Developer & Site Maintainer  
 **Duration**: Ongoing (since 2011)  
-**Tech Stack: PHP (v5.X → v8.3), MySQL (v5.6 → v8.0.42), JavaScript, jQuery, HTML, CSS, Apache
+**Tech Stack: PHP (v5.X → v8.3), MySQL (v5.6 → v8.0.42), JavaScript, jQuery, HTML, CSS, Apache, tailwind
 
 **Overview**:  
 Dalsaram.com is a Korean community portal based in Texas, providing classifieds, local business directories, forums, and announcements.  
@@ -45,7 +45,7 @@ The site handles over **300,000 monthly visits**, requiring both stability and p
 - Led full-stack development and long-term maintenance of a high-traffic Korean-American community portal (~10,000+ daily users).
 - Refactored legacy PHP logic to modularize key components (board, search, tagging system)
 - Optimized SQL queries for high-traffic boards, improving response time by 30%
-- Added custom menu/tag filtering and user-level content management system
+- Added custom menu/tag filtering and a user-level content management system
 - Implemented spam filtering and basic SQL injection protection logic
 - Built a sub-platform called “DalTube” for video tagging and category-based display
 - Migrated legacy PHP 5.x codebase to PHP 8.3 with major backend and DB structure upgrades.
@@ -57,7 +57,7 @@ The site handles over **300,000 monthly visits**, requiring both stability and p
 **Challenges Solved**:
 - Migrated part of the codebase from deprecated PHP functions to modern standards
 - Reduced duplicated logic by introducing partial templates and controller-like structures
-- Recovered from critical server error (500 Internal) due to memory limits
+- Recovered from a critical server error (500 Internal) due to memory limits
 
 ## 📂 Other Projects
 ### DalTube
@@ -68,15 +68,15 @@ A mini video content platform built into Dalsaram.com.
 ### Dalsaram Admin Site
 
 ### Ad Banner Manager (Internal tool)
-- Built simple ad banner rotation and logging system using PHP session and database logging
+- Built a simple ad banner rotation and logging system using PHP sessions and database logging
 - Tracks CTR (Click-through rate) and allows time-based banner scheduling
 
 
 
 ## Other careers: Web Designer & UI Designer Projects
 
-###The Battle Cats English/ Korean / Chinese/ Europe (German, Italy, Spain Ver.)
-- Introduce: Mobile Game, Official Web Site
+###The Battle Cats English/ Korean / Chinese/ Europe (German, Italian, Spanish Ver.)
+- Introduce: Mobile Game, Official Website
 - Help Site/ Event Page
 - Date: 2014.09 ~ 2022.08
 
