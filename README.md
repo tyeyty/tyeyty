@@ -160,7 +160,7 @@ Real-time event status updates using AJAX
 
 # 📫 Contact
 **Location**: Texas, USA  
-**GitHub**: @tyey  
+**GitHub**: @tyeyty  
 **LinkedIn**: <a href="https://linkedin.com/in/tyeyty" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a> 🔗  
