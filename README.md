@@ -165,7 +165,7 @@ Real-time event status updates using AJAX
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a> 🔗  
 **Email**: tyeyty@gmail.com  
-**Portfolio**: [https://www.linkedin.com/in/tyeyty](https://tyeyty.vercel.app/) 🌐 
+**Portfolio**: [Portfolio Site](https://tyeyty.vercel.app/) 🌐 
 
 # 💡 What I'm Looking For
 I'm seeking a full-stack or backend-focused role where I can:
