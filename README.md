@@ -1,4 +1,4 @@
-# Full-Stack PHP Developer
+# Full-Stack Developer
 
 # About Me
 I'm a full-stack developer based in Texas with over 4 years of experience building and maintaining high-traffic web applications. I specialize in PHP/MySQL backend development with strong frontend capabilities, currently managing dalsaram.com—a Korean-American community portal serving 10,000+ daily active users and handling 300,000+ monthly visits.
