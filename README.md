@@ -1,4 +1,4 @@
-Full-Stack PHP Developer
+# Full-Stack PHP Developer
 
 # About Me
 I'm a full-stack developer based in Texas with over 4 years of experience building and maintaining high-traffic web applications. I specialize in PHP/MySQL backend development with strong frontend capabilities, currently managing dalsaram.com—a Korean-American community portal serving 10,000+ daily active users and handling 300,000+ monthly visits.
@@ -161,9 +161,9 @@ Real-time event status updates using AJAX
 # 📫 Contact
 **Location**: Texas, USA  
 **GitHub**: @tyey  
-**LinkedIn**: <a href="https://www.linkedin.com/in/tyeyty" target="_blank">Linkedin</a>    
+**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/tyeyty) 🔗  
 **Email**: tyeyty@gmail.com  
-**Portfolio**: <a href="https://tyeyty.vercel.app/" target="_blank">Portfolio Site</a>  
+**Portfolio**: [https://www.linkedin.com/in/tyeyty](https://tyeyty.vercel.app/) 🌐 
 
 # 💡 What I'm Looking For
 I'm seeking a full-stack or backend-focused role where I can:
