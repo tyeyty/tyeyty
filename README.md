@@ -155,13 +155,23 @@ App store download pages with device detection
 Interactive promotional campaigns with form validation
 Real-time event status updates using AJAX
 
-<img src='./ssm_icon.png' width="80" />
-<img src='./ssb_icon.png' width="80" />
+<img src='./ssm_icon.png' width="80" /> <img src='./ssb_icon.png' width="80" />
 <img src='./ssp_icon.png' width="80" />
 
 # 📫 Contact
 **Location**: Texas, USA  
 **GitHub**: @tyey  
-**LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/tyeyty/)  
+**LinkedIn**: <a href="https://www.linkedin.com/in/tyeyty" target="_blank">Linkedin</a>    
 **Email**: tyeyty@gmail.com  
-**Portfolio**: https://tyeyty.vercel.app/
+**Portfolio**: <a href="https://tyeyty.vercel.app/" target="_blank">Portfolio Site</a>  
+
+# 💡 What I'm Looking For
+I'm seeking a full-stack or backend-focused role where I can:
+
+Build scalable web applications with modern PHP frameworks
+Contribute to architectural decisions and code quality
+Collaborate with cross-functional teams
+Mentor junior developers and share knowledge
+Work with modern DevOps practices (Docker, CI/CD)
+
+Open to: Remote, Hybrid in Texas
