@@ -1,62 +1,49 @@
-# Full-Stack Developer
+# Full-Stack Developer GH Jo
 
-# About Me
-## Full-Stack Developer & UI/UX Designer | 20+ Years Experience
-
-I am a seasoned Full-Stack Developer and UI/UX Designer based in Texas, with over 20 years of experience in the technology and gaming industries (including roles at Capcom and Ponos). I specialize in building high-performance, data-driven platforms from the ground up, bridging the gap between robust backend architecture and intuitive user interfaces.
-
-## Currently, I lead the development and operation of USPick.net, a comprehensive community information platform. My core expertise lies in:
-Modern Web Stack: Proficient in React, Next.js, and TypeScript, leveraging tools like Supabase and Vite for rapid, scalable deployment.
-
-## Legacy & Backend & Frontend Mastery: dalsaram.com
-Deep-rooted experience in PHP, MySQL, and managing high-traffic portals with 10,000+ daily active users.
-AI-Driven Development: Expertly utilizing AI tools (Cursor, Claude, Gemini) to accelerate prototyping, SEO optimization, and content automation.
-
-## Design-Centric Engineering: Holding a degree in Visual Design, I ensure every product is not only functional but also aesthetically superior and user-friendly.
-
-Having recently secured my green card, I am now seeking a full-time, part-time role where I can leverage my 14 years of technical leadership and hands-on execution to build impactful, scalable products in a collaborative team environment.
-
-# 💼Professional Experience
-## Full-Stack Developer @ Dalsaram
-2024 - Present | Texas, USA
-
-Lead development and maintenance of high-traffic community portal (10K+ DAU, 300K+ monthly visits)
-Architect and implement full-stack features using PHP 8.3, MySQL 8.0, JavaScript, and Tailwind CSS
-Optimize database queries and server performance for scalability
-
-## Frontend Engineer @ PONOS Corporation
-2014 - 2022 | Tokyo, Japan
-
-Developed and maintained web interfaces for mobile game franchises (The Battle Cats, Superstar series)
-Built responsive landing pages, event sites, and help documentation portals
-Collaborated with designers and backend teams to implement pixel-perfect UI components
-
-## UI Developer @ CAPCOM
-2010 - 2013 | Tokyo, Japan
-Implemented frontend interfaces for gaming web properties
-Created interactive promotional sites and event pages
-
-## Frontend Developer @ WEMADE JAPAN
-2009 - 2010 | Tokyo, Japan
-
-## Junior Developer @ KYOBO Information & Communication
-2007 - 2009 | Tokyo, Japan
-
-## Junior Web Designer @GJ Design
-2004 - 2006 | Seoul, Korea
-
-# 🎓 Education
-- Open Cyber University — Information & Communication Engineering (2008-2010)
-- Induk University — Visual Design (2004-2006)
+# 📫 Contact
+**Location**: Texas, USA  
+**GitHub**: @tyeyty  
+**LinkedIn**: <a href="https://linkedin.com/in/tyeyty" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+</a> 🔗  
+**Email**: tyeyty@gmail.com  
+**Portfolio**: [Portfolio Site](https://tyeyty.vercel.app/) 🌐 
 
 # 🛠 Technical Skills
 **Backend**: PHP (5.x → 8.3), MySQL (5.6 → 8.0), SQL Optimization, RESTful APIs, Next.js, Node,js   
-**Frontend**: JavaScript (ES6+), jQuery, HTML5, CSS3, Tailwind CSS, Responsive Design, React 
+**Frontend**: JavaScript (ES6+), jQuery, HTML5, CSS3, Tailwind CSS, Responsive Design, React  
 **DevOps & Tools**: Git, Apache, Linux (Ubuntu/CentOS), cPanel, Shell scripting, Cron jobs  
 **Database**: MySQL, phpMyAdmin, Query Optimization, Database Migration, Supabase  
 **Development Tools**: VSCode, Git, Bitbucket, SourceTree, FTP/SFTP  
 **Collaboration**: Jira, Confluence, Slack, Figma  
 **Currently Learning**: React, Laravel, Supabase, Docker, SAP Fiori (UI5)  
+
+# About Me
+## Senior Full-Stack Engineer & UI/UX Expert
+Seasoned developer with a deep foundation in both visual design and  
+engineering, specializing in high-traffic platforms (10K+ DAU) and AI-integrated SaaS.  
+Expert in building modern web architectures using Next.js, TypeScript, and PHP 8.3, with a proven track record at global leaders like Capcom and Ponos.  
+Passionate about leveraging AI agents to accelerate the SDLC and deliver aesthetically superior, user-centric products.  
+U.S. Green Card holder ready for immediate full-time or part-time opportunities.
+
+# 💼Professional Experience
+## Full-Stack Developer @ Dalsaram  
+2024 - Present | Texas, USA  
+Lead development and maintenance of high-traffic community portal (10K+ DAU, 300K+ monthly visits)  
+Architect and implement full-stack features using PHP 8.3, MySQL 8.0, JavaScript, and Tailwind CSS  
+Optimize database queries and server performance for scalability  
+
+## Frontend Engineer @ PONOS Corporation
+2014 - 2022 | Tokyo, Japan  
+Developed and maintained web interfaces for mobile game franchises (The Battle Cats, Superstar series)  
+Built responsive landing pages, event sites, and help documentation portals  
+Collaborated with designers and backend teams to implement pixel-perfect UI components  
+
+## Additional Professional Experience (2004 – 2013)
+**UI Developer** | CAPCOM | Tokyo, Japan (2010 – 2013)  
+**Frontend Developer** | WEMADE JAPAN | Tokyo, Japan (2009 – 2010)  
+**Junior Developer** | KYOBO Information & Communication | Tokyo, Japan (2007 – 2009)  
+**Junior Web Designer** | GJ Design | Seoul, Korea (2004 – 2006)
 
 # 🚀 Featured Projects
 ## Dalsaram.com — Korean Community Portal
@@ -109,7 +96,7 @@ class BoardController {
 
 ---
 
-## USPick.net (정보 큐레이션 플랫폼)
+## USPick.net (Information Curation Platform)
 URL: <a href="https://uspick.net" target="_blank" rel="noopener noreferrer">uspick.net</a>  
 **Point**:  
 * SEO Optimization & Automated Data Pipeline  
@@ -121,18 +108,16 @@ URL: <a href="https://uspick.net" target="_blank" rel="noopener noreferrer">uspi
 * Achieved high Lighthouse scores through aggressive caching strategies and Google Search Console metric optimization.
 * Built an automated content generation and intelligent tagging system leveraging AI APIs to streamline information curation.
 
-## CardStudio (SaaS - 소셜 미디어 자동화)
-URL: <a href="https://card.uspick.net" target="_blank" rel="noopener noreferrer">Cardstudio by uspick</a> 
-
+## CardStudio (SaaS - Social Media Automatic Service)
+URL: <a href="https://card.uspick.net" target="_blank" rel="noopener noreferrer">Cardstudio by uspick</a>  
 **Point**: Complex Editor & Payment Integration, Subscription Logic (Stripe) 
 **Role**: Sole Developer & Architect  
 **Tech Stack**: Next.js, Vite, Stripe, Supabase  
 **Highlights**: * Implemented a robust subscription model and automated billing workflows using the Stripe API.  
 Developed a sophisticated web-based editor and integrated secure payment processing systems.  
 
-## TX Car Menu (로컬 비즈니스 솔루션)  
-URL: <a href="https://dalsaram.com/car/" target="_blank" rel="noopener noreferrer">TX CAR</a> 
-
+## TX Car Menu (Local Business Community Service)  
+URL: <a href="https://dalsaram.com/car/" target="_blank" rel="noopener noreferrer">TX CAR</a>  
 **Point**: Lightweight Web App & Local Optimization  
 **Role**: Sole Developer & UI Designer & Architect  
 **Tech Stack**: React, Vite, Supabase  
@@ -140,87 +125,39 @@ URL: <a href="https://dalsaram.com/car/" target="_blank" rel="noopener noreferre
 * Mobile-First Responsive Interface: "Engineered a responsive interface to transform complex menu systems into a seamless mobile-first user experience."  
 * Real-time Backend System: "Built a specialized real-time backend system for local shop owners to manage menus and inventory dynamically."  
 
-## DalTube — Video Content Platform  
-**Role**: Full-Stack Developer  
-**Tech Stack**: PHP, MySQL, JavaScript, YouTube API
-
-**Features Implemented**  
-YouTube video integration with custom tagging system
-Category-based content filtering and search
-Admin dashboard for content management (upload, tag, sort)
-Responsive video player with playlist functionality
-
-## Dalsaram Admin Dashboard
-**Role**: Backend & Frontend Developer  
-**Description**: Internal CMS for managing site content, users, and analytics  
-
-**Key Features**  
-User role management and permission system
-Content moderation tools with bulk actions
-Real-time analytics dashboard
-Database backup and maintenance tools
-
-
-## Ad Banner Management System
-**Role**: Full-Stack Developer  
-**Tech Stack**: PHP, MySQL, JavaScript  
-
-**Functionality**  
-Dynamic banner rotation system with time-based scheduling
-Click-through rate (CTR) tracking and analytics
-Session-based impression counting
-Admin interface for campaign management
+## Other Notable Projects
+**DalTube — Video Content Platform**  
+**Dalsaram Admin Dashboard**
+**Ad Banner Management System**
 
 # 🎮 Frontend Engineering Projects (Game Industry)
 ## The Battle Cats — Multi-Regional Web Properties
 **Company**: PONOS Corporation (2014-2022)  
 **Role**: Frontend Engineer  
 **Regions**: English, Korean, Chinese, European (DE/IT/ES)  
-
-**Responsibilities**  
-Developed responsive landing pages and promotional sites using HTML5/CSS3/JavaScript
-Built interactive event pages with animations and real-time countdown timers
-Implemented help documentation portals with search functionality
-Created localized UI components for multi-language support
-Optimized frontend performance for mobile-first experience
-
 <img src='./battlecat_icons.jpg' width="150" />
 
-**Technical Implementation**  
-Vanilla JavaScript for interactive elements and API integrations
-CSS3 animations and transitions for engaging user experience
-Responsive grid layouts using Flexbox/Grid
-Cross-browser compatibility testing and optimization
 
 ## SUPERSTAR Series (SMTOWN / BTS / PLEDIS) — Japan Region
 **Company**: PONOS Corporation (2017-2020)  
 **Role**: Frontend Developer  
 
-**Delivered**  
-Mobile-optimized event landing pages
-App store download pages with device detection
-Interactive promotional campaigns with form validation
-Real-time event status updates using AJAX
-
 <img src='./ssm_icon.png' width="80" /> <img src='./ssb_icon.png' width="80" />
 <img src='./ssp_icon.png' width="80" />
 
-# 📫 Contact
-**Location**: Texas, USA  
-**GitHub**: @tyeyty  
-**LinkedIn**: <a href="https://linkedin.com/in/tyeyty" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-</a> 🔗  
-**Email**: tyeyty@gmail.com  
-**Portfolio**: [Portfolio Site](https://tyeyty.vercel.app/) 🌐 
+# 🎓 Education
+- Open Cyber University — Information & Communication Engineering (2008-2010)
+- Induk University — Visual Design (2004-2006)
+
+
 
 # 💡 What I'm Looking For
-I'm seeking a full-stack or backend-focused role where I can:
-
-Build scalable web applications with modern PHP frameworks
-Contribute to architectural decisions and code quality
-Collaborate with cross-functional teams
-Mentor junior developers and share knowledge
-Work with modern DevOps practices (Docker, CI/CD)
+I am looking for a long-term, stable opportunity where I can apply my 20 years of technical expertise to build and maintain high-quality products.  
+My ideal role involves:  
+**Remote or Flexible Work Environment:** Leveraging my self-motivated work ethic to deliver results in a distributed team setting.  
+**Scalable & Sustainable Development:** Building robust web applications using modern stacks (Next.js, PHP 8.3) with a focus on long-term maintainability over "move fast and break things."  
+**Architectural Leadership:** Contributing to high-level decisions, optimizing code quality, and establishing best practices.  
+**Mentorship:** Guiding junior and mid-level developers to foster a collaborative and efficient engineering culture.  
+**Reliability & Balance:** Joining a mature organization that values consistent, high-quality output and structured development cycles.
 
 Open to: Remote, Hybrid in Texas
