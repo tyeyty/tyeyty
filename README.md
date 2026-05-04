@@ -1,9 +1,9 @@
 # Full-Stack Developer
 
 # About Me
-## Full-Stack Developer & UI/UX Designer | 14+ Years Experience
+## Full-Stack Developer & UI/UX Designer | 20+ Years Experience
 
-I am a seasoned Full-Stack Developer and UI/UX Designer based in Texas, with over 14 years of experience in the technology and gaming industries (including roles at Capcom and Ponos). I specialize in building high-performance, data-driven platforms from the ground up, bridging the gap between robust backend architecture and intuitive user interfaces.
+I am a seasoned Full-Stack Developer and UI/UX Designer based in Texas, with over 20 years of experience in the technology and gaming industries (including roles at Capcom and Ponos). I specialize in building high-performance, data-driven platforms from the ground up, bridging the gap between robust backend architecture and intuitive user interfaces.
 
 ## Currently, I lead the development and operation of USPick.net, a comprehensive community information platform. My core expertise lies in:
 Modern Web Stack: Proficient in React, Next.js, and TypeScript, leveraging tools like Supabase and Vite for rapid, scalable deployment.
@@ -41,6 +41,9 @@ Created interactive promotional sites and event pages
 
 ## Junior Developer @ KYOBO Information & Communication
 2007 - 2009 | Tokyo, Japan
+
+## Junior Web Designer @GJ Design
+2004 - 2006 | Seoul, Korea
 
 # 🎓 Education
 - Open Cyber University — Information & Communication Engineering (2008-2010)
