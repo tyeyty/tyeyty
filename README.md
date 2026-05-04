@@ -109,7 +109,7 @@ class BoardController {
 ---
 
 ## USPick.net (정보 큐레이션 플랫폼)
-**Point**
+**Point**:
 SEO Optimization & Automated Data Pipeline
 "Architected automated data pipelines and implemented advanced SEO strategies to maximize platform visibility."
 **Role**: Sole Developer & Architect
