@@ -1,8 +1,20 @@
 # Full-Stack Developer
 
 # About Me
-I'm a full-stack developer based in Texas with over 4 years of experience building and maintaining high-traffic web applications. I specialize in PHP/MySQL backend development with strong frontend capabilities, currently managing dalsaram.com—a Korean-American community portal serving 10,000+ daily active users and handling 300,000+ monthly visits.
-With a background spanning both backend development and frontend implementation, I bring a comprehensive understanding of the full web development lifecycle. After receiving my green card, I'm actively seeking full-time opportunities where I can contribute to impactful products in a collaborative team environment.
+## Full-Stack Developer & UI/UX Designer | 14+ Years Experience
+
+I am a seasoned Full-Stack Developer and UI/UX Designer based in Texas, with over 14 years of experience in the technology and gaming industries (including roles at Capcom and Ponos). I specialize in building high-performance, data-driven platforms from the ground up, bridging the gap between robust backend architecture and intuitive user interfaces.
+
+## Currently, I lead the development and operation of USPick.net, a comprehensive community information platform. My core expertise lies in:
+Modern Web Stack: Proficient in React, Next.js, and TypeScript, leveraging tools like Supabase and Vite for rapid, scalable deployment.
+
+## Legacy & Backend & Frontend Mastery: dalsaram.com
+Deep-rooted experience in PHP, MySQL, and managing high-traffic portals with 10,000+ daily active users.
+AI-Driven Development: Expertly utilizing AI tools (Cursor, Claude, Gemini) to accelerate prototyping, SEO optimization, and content automation.
+
+## Design-Centric Engineering: Holding a degree in Visual Design, I ensure every product is not only functional but also aesthetically superior and user-friendly.
+
+Having recently secured my green card, I am now seeking a full-time, part-time role where I can leverage my 14 years of technical leadership and hands-on execution to build impactful, scalable products in a collaborative team environment.
 
 # 💼Professional Experience
 ## Full-Stack Developer @ Dalsaram
