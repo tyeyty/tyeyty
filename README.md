@@ -108,6 +108,30 @@ class BoardController {
 
 ---
 
+## USPick.net (정보 큐레이션 플랫폼)
+**Point**
+SEO Optimization & Automated Data Pipeline
+"Architected automated data pipelines and implemented advanced SEO strategies to maximize platform visibility."
+**Role**: Sole Developer & Architect
+**Tech Stack**: Next.js (App Router), React, Supabase, Tailwind CSS
+**Highlights**: * Achieved high Lighthouse scores through aggressive caching strategies and Google Search Console metric optimization.
+Built an automated content generation and intelligent tagging system leveraging AI APIs to streamline information curation.
+
+## CardStudio (SaaS - 소셜 미디어 자동화)
+**Point**: Complex Editor & Payment Integration, Subscription Logic (Stripe) 
+**Role**: Sole Developer & Architect
+**Tech Stack**: Next.js, Vite, Stripe, Supabase
+**Highlights**: * Implemented a robust subscription model and automated billing workflows using the Stripe API.
+Developed a sophisticated web-based editor and integrated secure payment processing systems.
+
+## TX Car Menu (로컬 비즈니스 솔루션)
+**Point**: Lightweight Web App & Local Optimization
+**Role**: Sole Developer & UI Designer & Architect
+**Tech Stack**: React, Vite, Supabase
+**Highlights**: 
+* Mobile-First Responsive Interface: "Engineered a responsive interface to transform complex menu systems into a seamless mobile-first user experience."
+* Real-time Backend System: "Built a specialized real-time backend system for local shop owners to manage menus and inventory dynamically."
+
 ## DalTube — Video Content Platform  
 **Role**: Full-Stack Developer  
 **Tech Stack**: PHP, MySQL, JavaScript, YouTube API
