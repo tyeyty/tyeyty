@@ -112,6 +112,7 @@ class BoardController {
 **Point**:
 SEO Optimization & Automated Data Pipeline
 "Architected automated data pipelines and implemented advanced SEO strategies to maximize platform visibility."
+
 **Role**: Sole Developer & Architect
 **Tech Stack**: Next.js (App Router), React, Supabase, Tailwind CSS
 **Highlights**: * Achieved high Lighthouse scores through aggressive caching strategies and Google Search Console metric optimization.
